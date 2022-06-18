@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d35cb44-3800-4749-b310-24901bfcad8f" name="Changes" comment="Generator app created(with Unversioned Files)">
-      <change afterPath="$PROJECT_DIR$/generator/templates/generator/password.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/24b0fd05-6a81-4706-8af8-3af922ec8e27.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/24b0fd05-6a81-4706-8af8-3af922ec8e27.xml" afterDir="false" />
+    <list default="true" id="2d35cb44-3800-4749-b310-24901bfcad8f" name="Changes" comment="Home page created">
+      <change afterPath="$PROJECT_DIR$/generator/templates/generator/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Password_randomizer/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Password_randomizer/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generator/templates/generator/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/generator/templates/generator/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generator/templates/generator/password.html" beforeDir="false" afterPath="$PROJECT_DIR$/generator/templates/generator/password.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/generator/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/generator/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,15 +36,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Python/Учёба/Lesson_1&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Password_randomizer" type="Python.DjangoServer" factoryName="Django server">
       <module name="Password_randomizer_project" />
@@ -78,7 +80,9 @@
       <option name="presentableId" value="Default" />
       <updated>1655226281814</updated>
       <workItem from="1655226305918" duration="3293000" />
-      <workItem from="1655314945388" duration="4103000" />
+      <workItem from="1655314945388" duration="4383000" />
+      <workItem from="1655392778191" duration="2432000" />
+      <workItem from="1655564857126" duration="4102000" />
     </task>
     <task id="LOCAL-00001" summary="Creation">
       <created>1655226371425</created>
@@ -101,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655228071706</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Home page created">
+      <created>1655319639792</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655319639792</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +133,7 @@
     <MESSAGE value="Creation" />
     <MESSAGE value="Generator app created" />
     <MESSAGE value="Generator app created(with Unversioned Files)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generator app created(with Unversioned Files)" />
+    <MESSAGE value="Home page created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Home page created" />
   </component>
 </project>
