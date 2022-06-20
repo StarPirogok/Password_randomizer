@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d35cb44-3800-4749-b310-24901bfcad8f" name="Changes" comment="Home page created">
-      <change afterPath="$PROJECT_DIR$/generator/templates/generator/about.html" afterDir="false" />
+    <list default="true" id="2d35cb44-3800-4749-b310-24901bfcad8f" name="Changes" comment="Final design and backend">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Password_randomizer/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Password_randomizer/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generator/templates/generator/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/generator/templates/generator/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generator/templates/generator/password.html" beforeDir="false" afterPath="$PROJECT_DIR$/generator/templates/generator/password.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generator/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/generator/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +77,9 @@
       <workItem from="1655226305918" duration="3293000" />
       <workItem from="1655314945388" duration="4383000" />
       <workItem from="1655392778191" duration="2432000" />
-      <workItem from="1655564857126" duration="4102000" />
+      <workItem from="1655564857126" duration="4242000" />
+      <workItem from="1655569309997" duration="93000" />
+      <workItem from="1655737935750" duration="227000" />
     </task>
     <task id="LOCAL-00001" summary="Creation">
       <created>1655226371425</created>
@@ -112,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655319639792</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Final design and backend">
+      <created>1655569123970</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655569123970</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +138,7 @@
     <MESSAGE value="Generator app created" />
     <MESSAGE value="Generator app created(with Unversioned Files)" />
     <MESSAGE value="Home page created" />
-    <option name="LAST_COMMIT_MESSAGE" value="Home page created" />
+    <MESSAGE value="Final design and backend" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final design and backend" />
   </component>
 </project>
